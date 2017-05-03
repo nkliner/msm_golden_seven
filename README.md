@@ -1,5 +1,7 @@
 # Must See Movies Golden Seven
 
+EDITED
+
 In this application, users will need to Create, Read, Update, and Delete the following resources:
 
 #### Director
